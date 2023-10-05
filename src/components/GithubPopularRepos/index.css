@@ -1,0 +1,19 @@
+/* Write your CSS here */
+.main-app-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.main-heading {
+  font-family: 'Lobster';
+}
+.list-menu-item {
+  display: flex;
+  list-style-type: none;
+  padding: 0;
+  justify-content: space-around;
+  align-items: center;
+  margin: auto;
+}
